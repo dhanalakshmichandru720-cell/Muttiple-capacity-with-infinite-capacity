@@ -24,6 +24,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Output :
+<img width="730" height="364" alt="image" src="https://github.com/user-attachments/assets/df5f1209-da3f-4096-bdd7-9c3f24a03b57" />
 
 ## Result : 
 
