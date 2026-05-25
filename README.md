@@ -46,7 +46,7 @@ else:
 print("-----------------------------------------------------")
 ```
 ## Output :
-<img width="806" height="398" alt="image" src="https://github.com/user-attachments/assets/4f08d742-7eca-4548-9e2b-5024079313c4" />
+<img width="702" height="322" alt="image" src="https://github.com/user-attachments/assets/eab7a942-7395-4f0f-87c6-cbebd6c7529b" />
 
 ## Result : 
 
