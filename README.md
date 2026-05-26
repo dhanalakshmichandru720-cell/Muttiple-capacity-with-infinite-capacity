@@ -54,5 +54,6 @@ print("-----------------------------------------------------")
 ## Output :
 <img width="702" height="322" alt="image" src="https://github.com/user-attachments/assets/eab7a942-7395-4f0f-87c6-cbebd6c7529b" />
 
- 
+ ## Result 
+ Implemented the Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 
